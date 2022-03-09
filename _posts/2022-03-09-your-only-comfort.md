@@ -165,5 +165,5 @@ hand.
 
 [^1]: This edition is taken from R. Scott Clark's [site](https://heidelblog.net/catechism/), which contains the following note: "This edition of the catechism is based on the 1978 translation published by the Reformed Church in the United States and modified by the removal of archaic language and with minor revision of the translation according to the German and Latin texts." 
 
-[^2]: Here, I mean the traditional definition of the term "literally"
+[^2]: Here, I mean the traditional definition of the term "literally".
 
