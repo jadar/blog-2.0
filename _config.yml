@@ -2,8 +2,8 @@
 title: Jacob Rhoda
 description: "The writings and ponderings of a sinner saved by grace."
   #email: jacob.rhoda@my.wheaton.edu
-  #baseurl: "" # the subpath of your site, e.g. /blog/
-  #url: "http://reformedatwheaton.jadar.net"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://blog.jadar.net"
 
 markdown    : kramdown
 highlighter : rouge
