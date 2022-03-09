@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Your Only Comfort"
-date:   2022-03-07 21:12:02 -0500
+date:   2022-03-09 01:15:00 -0500
 tags: [Heidelberg Catechism, comfort, affliction]
 ---
 
