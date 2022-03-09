@@ -17,7 +17,8 @@ follows,
 > my Father in heaven not a hair can fall from my head; indeed, that all
 > things must work together for my salvation. Wherefore, by His Holy
 > Spirit, He also assures me of eternal life, and makes me heartily
-> willing and ready from now on to live for Him." [^1]
+> willing and ready from now on to live for Him." 
+> [Heidelberg Catechism](https://heidelblog.net/catechism/) [^1]
 
 It might seem strange at the outset that such a question would be the
 starting point of a work that is meant to teach what a Christian is to
@@ -55,7 +56,7 @@ of *all* comfort. When he says "all", he really means it.
 > comfort, which you experience when you patiently endure the same
 > sufferings that we suffer. Our hope for you is unshaken, for we know
 > that as you share in our sufferings, you will also share in our
-> comfort. (II Corinthians 1:3-7)
+> comfort. (II Corinthians 1:3-7, ESV)
 
 God is pleased to comfort us in *every* situation we find ourselves,
 whether we are in a good or a bad time in our lives we receive comfort
@@ -93,7 +94,7 @@ refiner purifies gold or silver. Our faith is of greater value than gold
 or silver. It is that which is most precious and most to be desired. And
 not only does God purify our faith, but he purifies our very souls we
 that we may be presented blameless on that last day (I Corinthians 1:8;
-I Thessalonians 5: 23).
+I Thessalonians 5:23).
 
 Afflictions beat us down; they batter and bruise us. However, we are not
 those without hope (I Peter 1:3). Although it is counterintuitive, and
@@ -134,13 +135,16 @@ is no automated menu to navigate, there is no language barrier. God is
 ready, willing, and able to hear and respond to all of our prayers. The
 Psalmist writes, "I waited patiently for the LORD; he inclined to me and
 heard my cry. He drew me up from the pit of destruction, out of the miry
-bog, and set my feet upon a rock, making my steps secure." (Psalm
-40:1-2). He hears our cries for mercy. What a comfort it is to know that
+bog, and set my feet upon a rock, making my steps secure." (Psalm 40:1-2)
+He hears our cries for mercy. What a comfort it is to know that
 God is listening to us!
 
-Moreover, we are meant to pray one for another as Paul commands in verse
-11: "You also must help us by prayer, so that many will give thanks on
-our behalf for the blessing granted us through the prayers of many."
+Moreover, we are meant to pray one for another as Paul commands the Corinthians
+in verse 11: 
+
+> "You also must help us by prayer, so that many will give thanks on
+> our behalf for the blessing granted us through the prayers of many."
+
 Praying for one another leads us to give thanks when that prayer is
 answered. Not only does the one for whom the prayer was offered give
 thanks, but all those who petitioned on their behalf give thanks as
@@ -157,6 +161,9 @@ life and in death, is this: you are not your own, but belong to your
 *faithful* savior Jesus Christ, and nothing can take you out of His
 hand.
 
-[^1]: [Heidelberg Catechism](https://heidelblog.net/catechism/)
+---
+
+[^1]: This edition is taken from R. Scott Clark's [site](https://heidelblog.net/catechism/), which contains the following note: "This edition of the catechism is based on the 1978 translation published by the Reformed Church in the United States and modified by the removal of archaic language and with minor revision of the translation according to the German and Latin texts." 
 
 [^2]: Here, I mean the traditional definition of the term "literally"
+
