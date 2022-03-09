@@ -1,0 +1,33 @@
+# Site settings
+title: Jacob Rhoda
+description: "The writings and ponderings of a sinner saved by grace."
+  #email: jacob.rhoda@my.wheaton.edu
+  #baseurl: "" # the subpath of your site, e.g. /blog/
+  #url: "http://reformedatwheaton.jadar.net"
+
+markdown    : kramdown
+highlighter : rouge
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+    # - jekyll-seo-tag
+
+paginate: 2 #6
+comments: true
+paginate_path: "/page/:num"
+
+sass:
+  sass_dir: _scss
+  style: compressed
+
+theme_settings:
+  site_navigation_sort: "order"
+
+# social footer
+social:
+  github:
+    slug: github
+    link: http://github.com/jadar
+  linkedin:
+    slug: linkedin
+    link: http://linkedin.com/in/jacob-r-44a599122

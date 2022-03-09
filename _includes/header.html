@@ -1,0 +1,35 @@
+<header class="site-header">
+
+    <div class="container txt-center">
+
+        <nav class="navbar">
+            <ul>
+                {% if site.theme_settings.site_navigation_sort %}
+                {% assign site_pages = site.pages | sort: site.theme_settings.site_navigation_sort %}
+                {% else %}
+                {% assign site_pages = site.pages %}
+                {% endif %}
+                {% for item in site_pages %}
+                {% if item.title and item.hide != true %}
+                <li>
+                    <a href="{{ item.url | relative_url }}">
+                        {{ item.title }}
+                    </a>
+                </li>
+                <li class="divider">&bull;</li>
+                {% endif %}
+                {% endfor %}
+                <li><a href="{{ "/feed.xml" | prepend: site.baseurl }}" target="_blank"><i class="icon icon-feed"></i> feed</a></li>
+            </ul>
+        </nav>
+
+        <a href="{{ "/" | prepend: site.baseurl }}" class="author-thumb">
+            <img src="{{ "/images/author.jpg" | prepend: site.baseurl }}" alt="Author thumbnail" class="dot">
+        </a>
+        <h1>{{ site.title }}<small>{{ site.description }}</small></h1>
+        <!-- <a class="btn" href="{{ site.repository }}/archive/master.zip" target="_blank">download</a> -->
+        <hr class="hr">
+
+    </div>
+
+</header>
