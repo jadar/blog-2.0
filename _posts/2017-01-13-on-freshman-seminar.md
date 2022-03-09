@@ -1,31 +1,99 @@
 ---
 layout: post
 title: "On Freshman Seminar Reading Choices"
-permalink: freshman-seminar-reading-choices
 date: 2017-01-13 00:09:32
-comments: true
 description: "Reflections on books and readings chosen for Wheaton College's freshman seminar, CORE 101, class."
 keywords: []
 categories: [college]
 author: "Jacob Rhoda"
 
-tags: [books, N.T. Wright, heresy]
-
+tags: [Wheaton College, books, N.T. Wright, heresy]
 ---
 
-The fall 2016 semester marks the first time that Wheaton's new _[Christ at the Core](http://www.wheaton.edu/Academics/Liberal-Arts/Christ-at-the-Core-Curriculum)_ cirriculum has been put into practice. This includes a required freshman seminar which seeks to explore and answer the enduring question, "What is the Good Life?". We covered topics such as basic Christian doctrine (though not comprehensively or sufficiently, in my opinion), suffering, Christian character, Christian liberal arts education, vocation, and finally a section-specific topic. (The topic I ended up with was "Sexuality and Identity," but this post is not about that.) 
+The fall 2016 semester marks the first time that Wheaton's new _[Christ at the
+Core](https://www.wheaton.edu/academics/the-liberal-arts-at-wheaton-college/christ-at-the-core-liberal-arts-at-wheaton/)_
+cirriculum has been put into practice. This includes a required freshman seminar
+which seeks to explore and answer the enduring question, "What is the Good
+Life?". We covered topics such as basic Christian doctrine (though not
+comprehensively or sufficiently, in my opinion), suffering, Christian character,
+Christian liberal arts education, vocation, and finally a section-specific
+topic. (The topic I ended up with was "Sexuality and Identity," but this post is
+not about that.) 
 
-I was disappointed with the readings picked for this course. I felt like there was theology presented (and not critiqued) that the college wouldn't necessarily agree with. Specifically, I am extremely disappointed with the choice of _Simply Christian_ by N.T. Wright. 
+I was disappointed with the readings picked for this course. I felt like there
+was theology presented (and not critiqued) that the college wouldn't necessarily
+agree with. Specifically, I am extremely disappointed with the choice of _Simply
+Christian_ by N.T. Wright. 
 
-Wright has been the center of theological controversy in the church for many years. He is a chief champion of the New Perspective on Paul, a doctrine which essentially denies justification by faith alone. The new doctrine is very slippery, and many churches and denominations have issued statements critiquing and condemning this new doctrine. I think it is potentially dangerous to expose freshman students (some, if not most, with little theological education) to this without specifically talking about it. I'm certain Wheaton holds to the classic reformed view of justification (by faith alone,) so I'm unsure as to why Wright would be chosen in light of this controversy. I think it is a good thing to read bad theology, but only when it's read as bad theology. Because _Simply Christian_ is not specifically about this aspect of theology, I suppose I can understand why the book was used.
+Wright has been the center of theological controversy in the church for many
+years. He is a chief champion of the New Perspective on Paul, a doctrine which
+essentially denies justification by faith alone. The new doctrine is very
+slippery, and many churches and denominations have issued statements critiquing
+and condemning this new doctrine. I think it is potentially dangerous to expose
+freshman students (some, if not most, with little theological education) to this
+without specifically talking about it. I'm certain Wheaton holds to the classic
+reformed view of justification (by faith alone,) so I'm unsure as to why Wright
+would be chosen in light of this controversy. I think it is a good thing to read
+bad theology, but only when it's read as bad theology. Because _Simply
+Christian_ is not specifically about this aspect of theology, I suppose I can
+understand why the book was used.
 
-In addition to the previously mentioned issue with Wright himself, there are two theological issues with Simply Christian that would cause me not to pick this book. Wright has problematic views of the authority of Scripture and the personhood of Christ. In terms of Scripture, Wright **blatantly** denies the inerrancy of Scripture. He takes Karl Barth's view, (another problematic liberal theologian), which is, that while Scripture is divinely inspired, it is still errant because it was written by human authors. He says that scripture "points to" God's revelation as opposed to being intrinsically God's revelation. This goes against the teachings of the church since before Christ that scripture is divinely inspired and without error, being good for "for teaching, for reproof, for correction, and for training in righteousness" (2 Timothy 3:16, ESV). Wright doesn't often reference the Bible directly, sometimes using biblical language without giving a Bible reference. This might be because of his lessened view of scripture. If this view of scripture is put into practice, scripture becomes putty for us to do whatever we want with it, which is a very dangerous thing to do. I am confident Wheaton holds to the inerrancy of scripture from their statement of faith and what I've heard in chapel, so I'm scratching my head as to why this book was used without critiquing the problematic parts.
+In addition to the previously mentioned issue with Wright himself, there are two
+theological issues with Simply Christian that would cause me not to pick this
+book. Wright has problematic views of the authority of Scripture and the
+personhood of Christ. In terms of Scripture, Wright **blatantly** denies the
+inerrancy of Scripture. He takes Karl Barth's view, (another problematic liberal
+theologian), which is, that while Scripture is divinely inspired, it is still
+errant because it was written by human authors. He says that scripture "points
+to" God's revelation as opposed to being intrinsically God's revelation. This
+goes against the teachings of the church since before Christ that scripture is
+divinely inspired and without error, being good for "for teaching, for reproof,
+for correction, and for training in righteousness" (2 Timothy 3:16, ESV). Wright
+doesn't often reference the Bible directly, sometimes using biblical language
+without giving a Bible reference.  This might be because of his lessened view of
+scripture. If this view of scripture is put into practice, scripture becomes
+putty for us to do whatever we want with it, which is a very dangerous thing to
+do. I am confident Wheaton holds to the inerrancy of scripture from their
+statement of faith and what I've heard in chapel, so I'm scratching my head as
+to why this book was used without critiquing the problematic parts.
 
-The other big problem with _Simply Christian_ is Wright's view of Christ. He maintains that Jesus didn't know about his own divine nature, struggling and guessing at it throughout His life. This simply isn't true and ignores countless passages in the Gospels such as when Jesus taught in the temple, his baptism, times he's asserted himself as the divine, and other passages. It's very clear that Jesus knew who he was and what he was sent to do. Again, I'm confused by the choice to use this book in a 101 class without critiquing these teachings amid the severe theological issues with it.
+The other big problem with _Simply Christian_ is Wright's view of Christ. He
+maintains that Jesus didn't know about his own divine nature, struggling and
+guessing at it throughout His life. This simply isn't true and ignores countless
+passages in the Gospels such as when Jesus taught in the temple, his baptism,
+times he's asserted himself as the divine, and other passages. It's very clear
+that Jesus knew who he was and what he was sent to do. Again, I'm confused by
+the choice to use this book in a 101 class without critiquing these teachings
+amid the severe theological issues with it.
 
-Simply Christian isn't the only book of its type. It attempts to explain the Christian faith, simply, to those who don't know what Christianity is about. Wright attempts to do this by exploring the historical aspects behind the Bible and Christianity before diving into the theological aspects. But he fails to directly address sin and adequately proclaim the Gospel. (Maybe due to his view of salvation?) It seems to be a far cry from Billy Graham and the values that Wheaton has historically stood for. There are plenty of other books that also attempt to do this which I believe succeed at the task. I would suggest authors such as R.C. Sproul and Michael Horton. While lesser known, Sproul and Horton have many books on the basics of Christianity that clearly proclaim the Gospel with plenty of Scripture references. Specifically, I would recommend Horton's recent book, _Core Christianity: Finding Yourself in God's Stor_, and R.C. Sproul's book, _Essential Truths of the Christian Faith_ (which is even published in Wheaton, IL.)
+Simply Christian isn't the only book of its type. It attempts to explain the
+Christian faith, simply, to those who don't know what Christianity is about.
+Wright attempts to do this by exploring the historical aspects behind the Bible
+and Christianity before diving into the theological aspects.  But he fails to
+directly address sin and adequately proclaim the Gospel. (Maybe due to his view
+of salvation?) It seems to be a far cry from Billy Graham and the values that
+Wheaton has historically stood for. There are plenty of other books that also
+attempt to do this which I believe succeed at the task. I would suggest authors
+such as R.C. Sproul and Michael Horton. While lesser known, Sproul and Horton
+have many books on the basics of Christianity that clearly proclaim the Gospel
+with plenty of Scripture references. Specifically, I would recommend Horton's
+recent book, _Core Christianity: Finding Yourself in God's Stor_, and R.C.
+Sproul's book, _Essential Truths of the Christian Faith_ (which is even
+published in Wheaton, IL.)
 
-Another book choice I was confused about was _Christian Faith and Same Sex Attraction_ by Thomas Hopko. This book was specifically related to the section of this class that I took. It gives some great arguments for the traditional Christian view of marriage, but it predicates most of its arguments on Eastern Orthodox traditions rather than on Scripture. Were I an unbeliever reading this book, I would find it completely not compelling as I would ascribe to neither Christianity nor, much less, Eastern Orthodox Christianity. Indeed, being a protestant Christian, I was disappointed when the book only built its arguments on the Orthodox tradition, especially when I agreed with them on a biblical, theological level. 
+Another book choice I was confused about was _Christian Faith and Same Sex
+Attraction_ by Thomas Hopko. This book was specifically related to the section
+of this class that I took. It gives some great arguments for the traditional
+Christian view of marriage, but it predicates most of its arguments on Eastern
+Orthodox traditions rather than on Scripture. Were I an unbeliever reading this
+book, I would find it completely not compelling as I would ascribe to neither
+Christianity nor, much less, Eastern Orthodox Christianity. Indeed, being a
+protestant Christian, I was disappointed when the book only built its arguments
+on the Orthodox tradition, especially when I agreed with them on a biblical,
+theological level. 
 
-All in all, I personally enjoyed reading all of these books (including ones I didn't mention here.) It allowed me to study parts of theology I haven't explored before. What disappointed me was the lack of response to bad theology and not critiquing it with the opposing good theology.
+All in all, I personally enjoyed reading all of these books (including ones I
+didn't mention here.) It allowed me to study parts of theology I haven't
+explored before. What disappointed me was the lack of response to bad theology
+and not critiquing it with the opposing good theology.
 
