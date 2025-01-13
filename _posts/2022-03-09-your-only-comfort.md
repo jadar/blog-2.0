@@ -11,15 +11,15 @@ question of the Heidelberg Catechism, a document originating in
 Heidelberg, Germany in 1563 to teach the Christian faith. The answer
 follows,
 
-> "That I, with body and soul, both in life and in death, am not my own,
-> but belong to my faithful Savior Jesus Christ, who with His precious
-> blood has fully satisfied for all my sins, and redeemed me from all
-> the power of the devil; and so preserves me, that without the will of
-> my Father in heaven not a hair can fall from my head; indeed, that all
-> things must work together for my salvation. Wherefore, by His Holy
-> Spirit, He also assures me of eternal life, and makes me heartily
-> willing and ready from now on to live for Him." 
-> [Heidelberg Catechism](https://heidelblog.net/catechism/) [^1]
+> "That I with body and soul, both in life and death, am not my own, but 
+> belong unto my faithful Saviour Jesus Christ; who, with his precious 
+> blood, has fully satisfied for all my sins, and delivered me from all 
+> the power of the devil; and so preserves me that without the will of my 
+> heavenly Father, not a hair can fall from my head; yea, that all things 
+> must be subservient to my salvation, and therefore, by his Holy Spirit, 
+> He also assures me of eternal life, and makes me sincerely willing and 
+> ready, henceforth, to live unto him."
+> [Heidelberg Catechism](https://relight.app/resource/Heidelberg.1)  
 
 It might seem strange at the outset that such a question would be the
 starting point of a work that is meant to teach what a Christian is to
@@ -127,7 +127,7 @@ This is meant to be a reciprocal relationship. "If we are afflicted, it
 is for your comfort and salvation; and if we are comforted, it is for
 your comfort, which you experience when you patiently endure the same
 sufferings that we suffer." (II Corinthians 1:6). We are called to bear
-with one another---it literally[^2] cannot be any other way!
+with one another---it literally[^1] cannot be any other way!
 
 The third means of comfort is prayer (v. 11). God has given us a great
 privilege to carry our cares and our burdens to him in prayer. Prayer is
@@ -164,7 +164,5 @@ hand.
 
 ---
 
-[^1]: This edition is taken from R. Scott Clark's [site](https://heidelblog.net/catechism/), which contains the following note: "This edition of the catechism is based on the 1978 translation published by the Reformed Church in the United States and modified by the removal of archaic language and with minor revision of the translation according to the German and Latin texts." 
-
-[^2]: Here, I mean the traditional definition of the term "literally".
+[^1]: Here, I mean the traditional definition of the term "literally".
 
